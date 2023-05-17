@@ -1,0 +1,11 @@
+python==3.6
+pytorch
+scipy==1.1.0
+cypthon
+dill
+easydict
+h5py
+opencv
+pandas
+tqdm
+yaml
